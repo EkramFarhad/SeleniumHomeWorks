@@ -35,6 +35,9 @@ public class FaceBook {
         driver.quit();
 
 
+        driver.close();
+
+
 
     }
 }
