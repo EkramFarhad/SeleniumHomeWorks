@@ -1,4 +1,4 @@
-package Task1;
+package Class1HW;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
